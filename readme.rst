@@ -16,17 +16,17 @@ Resources
 -  `Facebook <https://fb.com/appsfeature>`_
 -  `Twitter <https://twitter.com/appsfeature>`_
 -  `LinkedIn <https://linkedin.com/in/appsfeature>`_
--  `pinterest <https://in.pinterest.com/appsfeature/>`_
--  `github <https://github.com/appsfeature/>`_
--  `instagram <https://www.instagram.com/appsfeature/>`_
--  `quora <https://appsfeature.quora.com/>`_
--  `flickr <https://www.flickr.com/appsfeature/>`_
--  `about.me <https://about.me/appsfeature>`_
--  `NAMESPACE <URL>`_
--  `NAMESPACE <URL>`_
--  `NAMESPACE <URL>`_
--  `NAMESPACE <URL>`_
--  `NAMESPACE <URL>`_
+-  `Pinterest <https://in.pinterest.com/appsfeature/>`_
+-  `Github <https://github.com/appsfeature/>`_
+-  `Instagram <https://www.instagram.com/appsfeature/>`_
+-  `Quora <https://appsfeature.quora.com/>`_
+-  `Flickr <https://www.flickr.com/appsfeature/>`_
+-  `About.me <https://about.me/appsfeature>`_
+-  `Vimeo <https://vimeo.com/appsfeature>`_
+-  `Reddit <https://www.reddit.com/user/appsfeature/>`_
+-  `Diigo <https://www.diigo.com/profile/appsfeature>`_
+-  `Myspace <https://myspace.com/appsfeature>`_
+-  `Wordpress <https://appsfeature.wordpress.com/>`_
 
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
+Report security issues to our `Security Panel <appsfeature@gmail.com>`_
+or via our `page on HackerOne <https://appsfeature.com>`_, thank you.
