@@ -12,13 +12,14 @@ Resources
 
 -  `Website <https://appsfeature.com>`_
 -  `YouTube <https://www.youtube.com/@appsfeature>`_
--  `BlogSpot <https://appsfeature.blogspot.com>`_
 -  `Facebook <https://fb.com/appsfeature>`_
 -  `Twitter <https://twitter.com/appsfeature>`_
 -  `LinkedIn <https://linkedin.com/in/appsfeature>`_
--  `Pinterest <https://in.pinterest.com/appsfeature/>`_
--  `Github <https://github.com/appsfeature/>`_
 -  `Instagram <https://www.instagram.com/appsfeature/>`_
+-  `Pinterest <https://in.pinterest.com/appsfeature/>`_
+-  `BlogSpot <https://appsfeature.blogspot.com>`_
+-  `Github <https://github.com/appsfeature/>`_
+-  `Gitlab <https://gitlab.com/appsfeature>`_
 -  `Quora <https://appsfeature.quora.com/>`_
 -  `Flickr <https://www.flickr.com/appsfeature/>`_
 -  `About.me <https://about.me/appsfeature>`_
