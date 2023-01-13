@@ -1,0 +1,240 @@
+# Translation of Themes - Reyl Lite in English (UK)
+# This file is distributed under the same license as the Themes - Reyl Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-29 08:05:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: Themes - Reyl Lite\n"
+
+#. Description of the plugin/theme
+msgid "Best minimalistic blog out there. Responsive, SEO optimized and user friendly, you can't get a better blogging experience than this :)"
+msgstr "Best minimalist blog out there. Responsive, SEO optimised and user friendly, you can't get a better blogging experience than this :)"
+
+#. Theme Name of the plugin/theme
+msgid "Reyl Lite"
+msgstr "Reyl Lite"
+
+#: inc/theme-functions/theme-info-page.php:132
+msgid "Free"
+msgstr "Free"
+
+#: inc/theme-functions/theme-info-page.php:130
+msgid "Premium"
+msgstr "Premium"
+
+#: inc/theme-functions/theme-info-page.php:68
+msgid "You can find this documentation and more at our %sHelp Center%s."
+msgstr "You can find this documentation and more at our %sHelp Centre%s."
+
+#: inc/theme-functions/theme-info-page.php:39
+msgid "PRO Version"
+msgstr "PRO Version"
+
+#: inc/theme-functions/theme-info-page.php:38
+msgid "Documentation"
+msgstr "Documentation"
+
+#: inc/theme-functions/theme-info-page.php:27
+msgid "Check the content below to get started with our theme."
+msgstr "Check the content below to get started with our theme."
+
+#: inc/theme-functions/theme-info-page.php:26
+msgid "Thanks for using %s, we appriciate that you create with our products."
+msgstr "Thanks for using %s, we appreciate your creations with our products."
+
+#: inc/theme-functions/theme-info-page.php:24
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: inc/theme-functions/theme-info-page.php:12
+msgid "You do not have sufficient permissions to access this page."
+msgstr "You do not have sufficient permissions to access this page."
+
+#: inc/theme-functions/theme-info-page.php:4
+msgid "Theme Info"
+msgstr "Theme Info"
+
+#: inc/customizer.php:49
+msgid "Check out the PRO version for more features. %s View PRO version %s"
+msgstr "Check out the PRO version for more features. %s View PRO version %s"
+
+#: inc/customizer.php:43
+msgid "PRO version"
+msgstr "PRO version"
+
+#: template-parts/pagination.php:12
+msgid "Next page"
+msgstr "Next page"
+
+#: template-parts/pagination.php:11
+msgid "Previous page"
+msgstr "Previous page"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:33
+msgid "Edit %s"
+msgstr "Edit %s"
+
+#: template-parts/content-page.php:22 template-parts/content-single.php:36
+#: template-parts/content.php:37
+msgid "Pages:"
+msgstr "Pages:"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: inc/theme-functions/wp_bootstrap_navwalker.php:197
+msgid "Add a menu"
+msgstr "Add a Menu"
+
+#: inc/template-tags.php:61
+msgid "% Comments"
+msgstr "% Comments"
+
+#: inc/template-tags.php:61
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: inc/template-tags.php:61
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#: inc/template-tags.php:53
+msgctxt "post author"
+msgid "by %s"
+msgstr "By %s"
+
+#: inc/template-tags.php:45
+msgid "Tagged %1$s"
+msgstr "Tagged %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:36 inc/template-tags.php:43
+msgid ", "
+msgstr ", "
+
+#: inc/extras.php:87
+msgid "Read more"
+msgstr "Read more"
+
+#: inc/theme-functions/theme-info-page.php:40
+msgid "More Themes"
+msgstr "More Themes"
+
+#: functions.php:64
+msgid "Social Menu"
+msgstr "Social Menu"
+
+#: functions.php:63
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#. #-#-#-#-#  reyl-lite.pot (Reyl Lite 1.0.5)  #-#-#-#-#
+#. Author of the plugin/theme
+#: footer.php:25
+msgid "Quema Labs"
+msgstr "Quema Labs"
+
+#. #-#-#-#-#  reyl-lite.pot (Reyl Lite 1.0.5)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:25
+msgid "https://www.quemalabs.com/"
+msgstr "https://www.quemalabs.com/"
+
+#: footer.php:25
+msgid "Reyl Lite designed by "
+msgstr "Reyl Lite designed by "
+
+#: footer.php:25
+msgid "WordPress"
+msgstr "WordPress"
+
+#: footer.php:25
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: footer.php:25
+msgid "Powered by "
+msgstr "Powered by "
+
+#: comments.php:121
+msgid "Website"
+msgstr "Website"
+
+#: comments.php:112
+msgid "Email"
+msgstr "E-mail"
+
+#: comments.php:103
+msgid "Name"
+msgstr "Name"
+
+#: comments.php:91
+msgid "Comment"
+msgstr "Comment"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:44 comments.php:65
+msgid "Newer Comments"
+msgstr "Newer Comments"
+
+#: comments.php:43 comments.php:64
+msgid "Older Comments"
+msgstr "Older Comments"
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "One thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:60
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Try looking in the monthly archives. %1$s"
+
+#: 404.php:39
+msgid "Most Used Categories"
+msgstr "Most Used Categories"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
+
+#. Theme URI of the plugin/theme
+msgid "https://www.quemalabs.com/theme/reyl-lite/"
+msgstr "https://www.quemalabs.com/theme/reyl-lite/"

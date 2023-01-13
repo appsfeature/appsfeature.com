@@ -1,0 +1,46 @@
+.code-embed-wrapper pre.line-numbers,
+#bbpress-forums .code-embed-wrapper pre.line-numbers {
+	position: relative;
+	padding-left: 3.8em;
+	counter-reset: linenumber;
+}
+
+.code-embed-wrapper pre.line-numbers > code,
+#bbpress-forums .code-embed-wrapper pre.line-numbers > code {
+	position: relative;
+}
+
+.code-embed-wrapper .line-numbers .line-numbers-rows,
+#bbpress-forums .code-embed-wrapper .line-numbers .line-numbers-rows {
+	position: absolute;
+	pointer-events: none;
+	top: 0;
+	font-size: 100%;
+	/*left: -3.8em;*/
+	left:0;
+	width: 3em; /* works for line-numbers below 1000 lines */
+	letter-spacing: -1px;
+	border-right: 1px solid #999;
+
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+
+}
+
+	.code-embed-wrapper .line-numbers-rows > span,
+	#bbpress-forums .code-embed-wrapper .line-numbers-rows > span {
+		pointer-events: none;
+		display: block;
+		counter-increment: linenumber;
+	}
+
+		.code-embed-wrapper .line-numbers-rows > span:before,
+		#bbpress-forums .code-embed-wrapper .line-numbers-rows > span:before {
+			content: counter(linenumber);
+			color: #999;
+			display: block;
+			padding-right: 0.8em;
+			text-align: right;
+		}
