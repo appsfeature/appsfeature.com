@@ -2,7 +2,8 @@
 
 class FeaturedAppsModel extends CI_Model{
 
-	public function FeaturedAppsModel(){
+	public function __construct(){
+		parent::__construct();
 		$this->load->database();
 	}
 
