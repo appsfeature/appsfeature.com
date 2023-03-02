@@ -2,7 +2,8 @@
 
 class FeaturedGamesModel extends CI_Model{
 
-	public function FeaturedGamesModel(){
+	public function __construct(){
+		parent::__construct();
 		$this->load->database();
 	}
 
